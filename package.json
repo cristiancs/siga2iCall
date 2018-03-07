@@ -1,0 +1,17 @@
+{
+  "name": "sigatoicall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "ics": "^2.4.1",
+    "line-reader": "^0.4.0",
+    "moment": "^2.21.0"
+  }
+}

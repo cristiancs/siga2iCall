@@ -1,0 +1,38 @@
+ Lunes
+5-6
+(11:45-13:15)	FIS130 - FISICA GENERAL III (Inscrita) 
+sala B004-SAN JOAQUIN (70)	200	  FISICA	  J. PINTO G.	Santiago San Joaquín	 Diurna
+7-8
+(14:00-15:30)	INF221 - ALGORITMOS Y COMPLEJIDAD (Inscrita) 
+sala B005-SAN JOAQUIN (70)	200	  INFORMATICA	  D. ARROYUELO B.	Santiago San Joaquín	 Diurna
+13-14
+(19:00-20:30)	INF246 - SISTEMAS OPERATIVOS (Inscrita) 
+sala B003-SAN JOAQUIN (70)	200	  INFORMATICA	  V. TAPIA V.	Santiago San Joaquín	 Diurna
+  Martes
+5-6
+(11:45-13:15)	MAT024 - MATEMATICAS IV (Pre-inscrita) 
+sala B003-SAN JOAQUIN (70)	202	  MATEMATICA	  P. GONZALEZ L.	Santiago San Joaquín	 Diurna
+9-10
+(15:40-17:10)	INF236 - ANÁLISIS Y DISEÑO DE SOFTWARE (Inscrita) 
+sala A011-SAN JOAQUIN (80)	200	  INFORMATICA	  C. ORELLANA E.	Santiago San Joaquín	 Diurna
+11-12
+(17:20-18:50)	INF221 - ALGORITMOS Y COMPLEJIDAD (Inscrita) 
+sala A011-SAN JOAQUIN (80)	200	  INFORMATICA	  D. ARROYUELO B.	Santiago San Joaquín	 Diurna
+  Miércoles
+5-6
+(11:45-13:15)	FIS130 - FISICA GENERAL III (Inscrita) 
+sala A004-SAN JOAQUIN (79)	200	  FISICA	  J. PINTO G.	Santiago San Joaquín	 Diurna
+13-14
+(19:00-20:30)	INF246 - SISTEMAS OPERATIVOS (Inscrita) 
+sala B003-SAN JOAQUIN (70)	200	  INFORMATICA	  V. TAPIA V.	Santiago San Joaquín	 Diurna
+  Jueves
+3-4
+(10:00-11:30)	MAT024 - MATEMATICAS IV (Inscrita) 
+sala A010-SAN JOAQUIN (79)	201	  MATEMATICA	  J. BAHAMONDES I.	Santiago San Joaquín	 Diurna
+5-6
+(11:45-13:15)	MAT024 - MATEMATICAS IV (Pre-inscrita) 
+sala A016 SAN JOAQUIN (100)	202	  MATEMATICA	  P. GONZALEZ L.	Santiago San Joaquín	 Diurna
+  Viernes
+1-2
+(8:15-9:45)	FIS130 - FISICA GENERAL III (Inscrita) 
+sala B010-SAN JOAQUIN (70)	200	  FISICA	  J. PINTO G.	Santiago San Joaquín	 Diurna
