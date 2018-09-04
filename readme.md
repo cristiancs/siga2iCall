@@ -11,6 +11,8 @@ Ir a siga > horario personal > imprimir
 
 copiar el texto que esta en Detalle de horario desde Lunes hasta el último ramo que tengan y ponerlo en texto.txt
 
+Luego ejecutar con node index.js
+
 Se generara un archivo ics que puedes subir a google maps y se generara un horario.
 
 ## Atención
