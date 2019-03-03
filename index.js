@@ -55,7 +55,7 @@ eachLine('texto.txt', function(line) {
 	if(line.startsWith('sala')){
 		let datos = line.split("	");
 		let ubicacion = datos[0].split('-')[0].replace('sala ','').split('(')[0].replace('SAN JOAQUÍN','');
-		for (var i = 0; i < 22; i++) {
+		for (var i = 0; i < 16; i++) {
 			inicioD = evento.inicio.toArray().splice(0, 5)
 			finD = evento.fin.toArray().splice(0, 5)
 			inicioD[1]+=1
