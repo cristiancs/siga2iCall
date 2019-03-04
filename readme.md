@@ -2,7 +2,7 @@
 
 # Instalación
 
-npm run install
+  npm install
 
 
 # Uso
